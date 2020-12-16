@@ -1,0 +1,48 @@
+ body{
+    background-color: #1f1f1f;
+    color: #bfbfbf;
+}
+
+.title-section{
+    text-align: center;
+}
+
+.input{
+    margin: 1px;
+    border-radius: 25px;
+  border: 2px solid rgb(38, 189, 251);
+  padding: 20px;
+  width: auto;
+  height: 150px;
+}
+
+.if-block{
+    margin: 1px;
+    border-radius: 25px;
+  border: 2px solid #bfbfbf;
+  padding: 20px;
+  width: auto;
+  height: 150px;
+}
+
+.else_if-block{
+    margin: 1px;
+    border-radius: 25px;
+  border: 2px solid #bfbfbf;
+  padding: 20px;
+  width: auto;
+  height: 150px;
+}
+
+.else-block{
+    margin: 1px;
+    border-radius: 25px;
+  border: 2px solid #bfbfbf;
+  padding: 20px;
+  width: auto;
+  height: 150px;
+}
+
+.output{
+    
+}
