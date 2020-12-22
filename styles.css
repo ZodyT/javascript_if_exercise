@@ -16,7 +16,7 @@
   height: 150px;
 }
 
-.if-block{
+#if-block{
     margin: 1px;
     border-radius: 25px;
   border: 2px solid #bfbfbf;
@@ -25,7 +25,7 @@
   height: 150px;
 }
 
-.else_if-block{
+#else_if-block{
     margin: 1px;
     border-radius: 25px;
   border: 2px solid #bfbfbf;
@@ -34,7 +34,7 @@
   height: 150px;
 }
 
-.else-block{
+#else-block{
     margin: 1px;
     border-radius: 25px;
   border: 2px solid #bfbfbf;
@@ -43,6 +43,3 @@
   height: 150px;
 }
 
-.output{
-    
-}
